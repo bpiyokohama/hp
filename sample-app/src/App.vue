@@ -1,7 +1,7 @@
 <template>
   <v-app id="inspire">
-    <v-app-bar app color="indigo" dark>
-      <v-toolbar-title>Application</v-toolbar-title>
+    <v-app-bar app color="#fff" dark class="title-header">
+      <v-toolbar-title class="title-header_2">ぱっぱらぱー</v-toolbar-title>
     </v-app-bar>
 
     <v-content>
@@ -51,3 +51,18 @@ export default {
   })
 };
 </script>
+
+
+<style lang="scss" scoped>
+    .title-header{
+
+
+
+.title-header_2{
+font-size: 50px;
+color:#000;
+
+}
+
+    }
+</style>
