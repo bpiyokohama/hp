@@ -54,15 +54,11 @@ export default {
 
 
 <style lang="scss" scoped>
-    .title-header{
-
-
-
+.title-header{
+  background-color: aqua;
 .title-header_2{
 font-size: 50px;
-color:#000;
-
-}
-
+color:#000
+};
     }
 </style>
