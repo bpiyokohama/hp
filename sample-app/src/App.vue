@@ -42,6 +42,7 @@
 </template>
 
 <script>
+<<<<<<< HEAD
 export default {
   props: {
     source: String
@@ -51,3 +52,19 @@ export default {
   })
 };
 </script>
+=======
+import HelloWorld from './components/HelloWorld';
+
+export default {
+  name: 'App',
+
+  components: {
+    HelloWorld,
+  },
+
+  data: () => ({
+    //
+  }),
+};
+</script>
+>>>>>>> 5736423026a360dacb04a6999e6aa37dc0b054ff
