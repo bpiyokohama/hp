@@ -2,10 +2,9 @@
 	"folders": [
 		{
 			"path": "/Users/chikarakobayakawa/Desktop/bpi_new_hp/hp"
-		},
-		{
-			"path": "/Users/chikarakobayakawa/sample-app"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
 }
